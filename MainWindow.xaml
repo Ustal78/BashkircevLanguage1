@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BashkircevLanguage"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Icon="/res/school_logo.ico" FontFamily="Comic Sans MS">
+        Title="MainWindow" Height="900" Width="1400" Icon="/res/school_logo.ico" FontFamily="Comic Sans MS">
 
     <Grid>
         <Grid.RowDefinitions>
